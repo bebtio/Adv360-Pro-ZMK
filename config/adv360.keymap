@@ -27,7 +27,7 @@
           bindings        = <&kp>, <&kp>;
       };
     };
-
+// This sometimes works and sometimes doesn't and I have no explanation for why that is.
   keymap {
     compatible = "zmk,keymap";
 
